@@ -1,9 +1,13 @@
-#Clone
-git clone https://github.com/jhon0210/pruebaDoubleVpartners.git
 
 # TicketsQL
 
 ## Introduccion
+
+## Clonar el repositorio
+
+```bash
+git clone git@github.com:jhon0210/pruebaDoubleVpartnersBack.git
+```
 
 ## Instalacion Docker
 
